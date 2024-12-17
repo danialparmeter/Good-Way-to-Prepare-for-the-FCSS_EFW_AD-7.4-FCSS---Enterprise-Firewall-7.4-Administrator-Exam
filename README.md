@@ -43,7 +43,7 @@ Fortinet provides comprehensive study materials that cover the exam objectives. 
 <h2>
 	4. Practice with Sample Questions
 </h2>
-Practicing <strong><a href="https://www.dumpsinfo.com/exam/fcss_efw_ad-7-4/" target="_blank">FCSS_EFW_AD-7.4 sample questions</a></strong> is an essential step in exam preparation. Fortinet may provide sample questions, but third-party platforms like Pearson VUE and Pass4Sure also offer mock exams. Use these resources to simulate the exam environment and assess your readiness.<br />
+Practicing <strong><a href="https://www.dumpsinfo.com/exam/fcss_efw_ad-7-4/" target="_blank">FCSS_EFW_AD-7.4 sample questions</a></strong> is an essential step in exam preparation. Fortinet may provide sample questions, but third-party platforms like Dumpsinfo also offer exam dumps questions. Use these resources to simulate the exam environment and assess your readiness.<br />
 <br />
 Focus on questions related to:<br />
 <br />
